@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **Phyton**
-
 - 📫 How to reach me **nevzatatalay79@gmail.com**
 
 - 📄 Know about my experiences [https://vercel.com/nevzats-projects](https://vercel.com/nevzats-projects)
