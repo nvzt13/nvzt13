@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nevzatatalay79@gmail.com**
 
-- 📄 Know about my experiences [https://vercel.com/nevzats-projects](https://vercel.com/nevzats-projects)
+- 📄 Know about my experiences [my projects](https://my-website-alpha-sepia-23.vercel.app/works)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
